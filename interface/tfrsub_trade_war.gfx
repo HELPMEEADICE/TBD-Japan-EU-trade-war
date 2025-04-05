@@ -1,0 +1,18 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_gui_tw_background"
+		texturefile = "gfx\interface\BGD\tw_background.png"
+	}
+	spriteType = {
+		name = "GFX_gui_trade_war_eu"
+		texturefile = "gfx\interface\BGD\BGD_trade_war_eu.png"
+	}
+	spriteType = {
+		name = "GFX_gui_trade_war_jp"
+		texturefile = "gfx\interface\BGD\BGD_trade_war_jp.png"
+	}
+	spriteType = {
+		name = "GFX_gui_trade_war_neutral"
+		texturefile = "gfx\interface\BGD\BGD_trade_war_neutral.png"
+	}
+}
