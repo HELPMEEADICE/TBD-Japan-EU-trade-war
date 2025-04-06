@@ -38,6 +38,9 @@ country_event = {
 	option = {
 		name = JETW_lost
 		set_country_flag = nv_eu
+		clr_country_flag = trade_poker_game_on
+		clr_country_flag = nv_compete
+		set_variable = { trade_war_schedules = 50 }
 	}
 }
 #JP Win NV
@@ -51,5 +54,8 @@ country_event = {
 	option = {
 		name = JETW_win
 		set_country_flag = nv_jp
+		clr_country_flag = trade_poker_game_on
+		clr_country_flag = nv_compete
+		set_variable = { trade_war_schedules = 50 }
 	}
 }
